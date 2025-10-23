@@ -50,3 +50,4 @@ npx cypress run
 Implemente mais três testes (isto é, comandos `it`) no arquivo `cypress\e2e\spec.cy.js`
 
 Em caso de dúvidas, consulte a [documentação do Cypress](https://docs.cypress.io/api/table-of-contents).
+
